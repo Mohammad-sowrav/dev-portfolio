@@ -53,7 +53,7 @@ nav li{
 }
 .banner-title{
     font-weight: 700;
-    font-size: 65px;
+    font-size: 51px;
 
 }
 .banner-sub-title{
@@ -94,7 +94,7 @@ nav li{
 .sec-about{
     margin: auto;
     margin-top: 150px;
-    padding: 137px 156px;
+    padding: 137px 135px;
     background-color: #FFF8F3;
     border-radius: 5px;
 }
@@ -146,7 +146,7 @@ nav li{
 
 }
 .what-description{
-    padding: 30px 280px;
+    padding: 30px 174;
     font-weight: 400;
     font-size: 18px;
     color: #757575;
@@ -194,9 +194,9 @@ nav li{
     
 }
 .resume-divide{
-    padding: 10px 30px;
+    padding: 10px 19px;
     
-    margin-top: 133px;
+    margin-top: 43px;
 
 }
 .resume-title{
@@ -236,7 +236,7 @@ nav li{
     border-radius: 5px;
     border: 0;
     padding: 16px 32px;
-    margin-left: 670px;
+    margin-left: 449px;
 
 }
 .contact{
