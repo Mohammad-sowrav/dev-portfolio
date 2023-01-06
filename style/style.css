@@ -87,13 +87,16 @@ nav li{
 
 }
 .main{
+   
+    width: 80%;
     margin: auto;
-    margin: 130px 300px;
-    padding: 137px 156px;
-    background-color: #FFF8F3;
 }
 .sec-about{
-   pad: 10px;
+    margin: auto;
+    margin-top: 150px;
+    padding: 137px 156px;
+    background-color: #FFF8F3;
+    border-radius: 5px;
 }
 .sec-h3{
     text-align: center;
@@ -129,4 +132,145 @@ nav li{
     font-size: 20px;
     font-weight: 700;
     color:#474747;
+}
+.what-i-do{
+    margin-top: 136px;
+    text-align: center;
+    
+}
+.what-i-do, h2{
+    color: #181818;
+    font-weight: 700;
+    font-size: 35px;
+    
+
+}
+.what-description{
+    padding: 30px 280px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #757575;
+    
+}
+.skill-container{
+    display: flex;
+    gap: 24px;
+    margin-top: 50px;
+}
+.skill{
+    padding: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    height: 300px;
+}
+.skill-title{
+    width: 700;
+    font-size: 30px;
+    color:#181818;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+
+}
+.skill-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+    
+}
+.summery-title{
+    margin-top: 40px;
+    
+    text-align: center;
+    font-weight: 800;
+    font-size: 50px;
+    color: #181818;
+}
+.summery-resume{
+    display: flex;
+    gap: 71px;
+    padding: 5px 100px;
+    
+}
+.resume-divide{
+    padding: 10px 30px;
+    
+    margin-top: 133px;
+
+}
+.resume-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+
+}
+.resume-sub-title{
+    margin-top: 30px;
+    width: 700;
+    font-size: 25px;
+    color: #474747  ;
+
+}
+.resume-pas{
+    margin-top: 10px;
+    width: 700;
+    font-size: 20px;
+    color:  #757575;
+
+}
+.resume-descirption{
+    margin-top: 20px;
+    width: 400;
+    font-size: 16px;
+    color: #757575;
+    margin-bottom: 30px;
+
+}
+.btncv-primary{
+    color: #FFFFFF;
+    height: 64px;
+    background-color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 0;
+    padding: 16px 32px;
+    margin-left: 670px;
+
+}
+.contact{
+    background: #FFF8F3;
+    width: 100%;
+    margin-top: 113px;
+   
+}
+.sub-contact{
+    padding-top: 130px;
+    display: flex;
+    gap: 120px;
+    width: 67%;
+    justify-content: center;
+    margin: auto;
+   
+}
+.contact-description{
+    margin-top: 20px;
+    width: 400;
+    font-size: 16px;
+    color: #757575;
+    margin-bottom: 30px;
+
+}
+.contact-description, a{
+    text-decoration: none;
+    padding: 0px 10px;
+}
+.massage input[type="text"], [type="email"], textarea{
+    background-color: #FFFFFf;
+    padding: 18px 30px;
+    margin-bottom: 24px;
+    border-style: none;
+    width: 461px;
+
 }
